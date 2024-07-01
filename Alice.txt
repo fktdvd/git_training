@@ -1,4 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This line is for testing the merging.
-This line added by Nano command line text editor.
+This line added for testing the divergent branches.
 
